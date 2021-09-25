@@ -1,3 +1,12 @@
+// pdf: ^3.6.0
+//   path_provider:
+//   flutter_full_pdf_viewer:
+//   downloads_path_provider_28:
+//   permission_handler:
+//   open_file:
+//   flutter_local_notifications:
+
+
 import 'dart:convert';
 
 import 'package:flutter/material.dart';
